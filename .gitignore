@@ -1,0 +1,7 @@
+*.png
+*.o
+*.webp
+*.jpeg
+.vscode/
+
+dithering
